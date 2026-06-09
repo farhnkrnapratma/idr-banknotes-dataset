@@ -1,0 +1,21 @@
+IDR Banknotes Dataset
+
+A processed dataset of Indonesian Rupiah (IDR) banknote images for
+Machine Learning and Computer Vision.
+
+Attribution
+
+This dataset is derived from the Rupiah Banknotes Dataset by M. Kaspul Anwar.
+
+Original repository:
+https://github.com/mkaspulanwar/rupiah-banknotes-dataset
+
+Modifications:
+- Removed image metadata
+- Compressed images
+- Reorganized dataset structure
+
+License
+
+This repository is distributed under the MIT License. See the LICENSE
+file for details.
